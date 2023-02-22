@@ -20,7 +20,7 @@ I'm currently working though the [HyperionDev](https://www.hyperiondev.com/) boo
 
 I have built a small portfolio of clients by building websites using *WordPress*, and am looking to expand the knowledge into building sites from scratch using code, you can see examples of the work here.
 
-## My stack
+## My tech stack
 I am currently learning:
 * Javascript
 * HTML
@@ -29,6 +29,10 @@ I am currently learning:
 * Git
 * NodeJS
 * ReactJS
+
+I also have experience in:
+* MatLab
+* LaTeX
 
 ## References
 Here is my [LinkedIn](https://www.linkedin.com/in/chris-smith-02b45125a/)
