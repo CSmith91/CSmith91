@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-I'm currently working though the [HyperionDev](https://www.hyperiondev.com/) bootcamp for **web development**! You will see some of the projects listed here, as well as my previous works!
+Freelance web developer and knight of software solutions!
 
 <img src="https://user-images.githubusercontent.com/10632213/221565090-847a2a1e-c0f7-4054-92e5-41a743d30f0c.jpg" width="300" height="400" />
 
