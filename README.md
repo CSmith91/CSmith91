@@ -31,10 +31,12 @@ I have experience in:
 * NodeJS <img src="https://user-images.githubusercontent.com/10632213/221564728-d2fdf9ce-b0a1-4633-a59e-9f97543e295a.png" width="20" height="20" /> 
 * Python <img src="https://github.com/user-attachments/assets/beaaf0f8-cb85-4aff-a31e-855854a37437" width="20" height="20" />
 * php <img src="https://github.com/user-attachments/assets/aa1ce98e-e281-421e-9e65-dddf02dd382d" width="20" height="20" />
+* SQL <img src="https://github.com/user-attachments/assets/f00130fc-ca0e-4aaf-a31f-f0df51031538" width="20" height="20" />
 * JSON <img src="https://user-images.githubusercontent.com/10632213/221564539-c2a19aa6-ffdc-4143-a473-a6f37f9e2948.png" width="20" height="20" /> 
 * Git <img src="https://user-images.githubusercontent.com/10632213/221566772-4fce9690-4159-4aab-9dba-db7d494961ae.png" width="20" height="20" /> 
 
 I also have experience in:
+* HubL <img src="https://github.com/user-attachments/assets/135d5b71-c9b8-4681-8248-d2a57a37ddf5" width="20" height="20" />
 * MatLab <img src="https://user-images.githubusercontent.com/10632213/221566990-ee143a41-f72e-40a8-801b-d5c20d1f3508.png" width="20" height="20" /> 
 * LaTeX <img src="https://user-images.githubusercontent.com/10632213/221567496-7bc842f1-8107-4009-aa1e-59870c10fb54.png" width="20" height="20" />
 
